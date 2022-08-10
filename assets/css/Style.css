@@ -1,0 +1,35 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.navbar {
+    background-color: #E83E8C;
+}
+
+#metodos-pago {
+    background-color:#17A2B8
+}
+
+.card-link {
+    text-decoration: none;
+    font-size: 11px;
+   
+}
+
+.h5{
+    font-size: 17px;
+}
+
+.p {
+    font-size: 16px;
+}
+
+.list-group-item {
+    font-size: 11px;
+}
+
+#footer {
+    background-color: #E83E8C
+}
+
